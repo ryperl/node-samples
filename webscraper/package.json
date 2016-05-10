@@ -1,0 +1,12 @@
+{
+  "name": "node-web-scrape",
+  "version": "0.1.0",
+  "description": "Scraper some web",
+  "main": "server.js",
+  "author": "rsp",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
